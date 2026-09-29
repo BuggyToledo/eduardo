@@ -1,0 +1,8 @@
+{
+  "name": "OrçaReformas Pro",
+  "description": "Sistema web para gestão de orçamentos e CRM, otimizado para empresas de pintura e reformas com exportação em PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
